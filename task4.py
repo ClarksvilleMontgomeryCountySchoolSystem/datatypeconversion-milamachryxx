@@ -5,4 +5,3 @@ print(bool("False"))
 # Can you find a string that converts to False using bool()?
 # Experiment below:
 bool("False")
-print(False)
