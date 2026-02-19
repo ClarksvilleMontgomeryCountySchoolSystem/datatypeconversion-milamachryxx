@@ -1,20 +1,22 @@
-from data import price
+from data import a, b, c, d, e, f
 
-#TODO 1 Run this program
-#Let'S debug.
-#This time the problem is causing an error
-#TODO 2 Comment lines 18 & 19 to allow the program to run.
+# Convert each variable to the most suitable data type
+# Hint: print and check type if unsure
+# Not all can or should be converted to a number
 
-#TODO 3 print price
-print(price)
-
-#TODO 4 Print the type
-print(type(price))
-
-#TODO 5 Convert to the correct data type and reassign to price.
-price = float(price)
-
-#TODO 6 Uncomment 18 & 19.
-total = price + 5
-print(total)
-
+# a
+print(a)
+a = float(a)
+# b
+print(b)
+# c
+print(c)
+c = int(c)
+# d
+print(d)
+d = int(d)
+# e
+print(e)
+# f
+print(f)
+f = float(f)
